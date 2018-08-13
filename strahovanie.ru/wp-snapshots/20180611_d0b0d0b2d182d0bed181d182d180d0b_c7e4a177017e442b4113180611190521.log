@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 11.06.2018 19:06
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.40
+WORDPRESS:	4.9.6
+PHP INFO:	5.5.38 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 37.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:25 | filtered:0 | create:25 
+FILTERED: [] 
+SQL CREATED: 20180611_d0b0d0b2d182d0bed181d182d180d0b_c7e4a177017e442b4113180611190521_database.sql 
+SQL FILE SIZE: 2.49MB (2608834) 
+SQL FILE TIME: 2018-06-11 19:06:18 
+SQL RUNTIME: 3.85 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/OSPanel/domains/strahovanie.ru 
+ARCHIVE FILE: 20180611_d0b0d0b2d182d0bed181d182d180d0b_c7e4a177017e442b4113180611190521_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	93.25MB 
+STATS:	Dirs 633 | Files 3,369 
+SQL ADDED: 20180611_d0b0d0b2d182d0bed181d182d180d0b_c7e4a177017e442b4113180611190521_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4002
+    [filename] => C:\OSPanel\domains\strahovanie.ru\wp-snapshots\tmp\20180611_d0b0d0b2d182d0bed181d182d180d0b_c7e4a177017e442b4113180611190521_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 49MB 
+ARCHIVE RUNTIME: 86.24 sec. 
+MEMORY STACK: 39.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/OSPanel/domains/strahovanie.ru/wp-snapshots/tmp/20180611_d0b0d0b2d182d0bed181d182d180d0b_c7e4a177017e442b4113180611190521_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.49MB 
+Installer File: 445.94KB 
+Archive File: 49MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 92.93 sec.
+PEAK PHP MEMORY USED: 42MB
+DONE PROCESSING => 20180611_d0b0d0b2d182d0bed181d182d180d0b 11.06.2018 19:07
+ 
