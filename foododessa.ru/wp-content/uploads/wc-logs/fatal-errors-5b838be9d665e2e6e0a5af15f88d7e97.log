@@ -1,0 +1,34 @@
+2017-11-29T13:49:51+00:00 CRITICAL Call to undefined function get_tamplate_directory_uri()
+
+2017-11-29T13:50:18+00:00 CRITICAL Call to undefined function get_tamplate_directory_url()
+
+2017-12-06T02:02:48+00:00 CRITICAL Call to undefined function blog_info_tamblate_url()
+
+2017-12-06T23:16:26+00:00 CRITICAL Cannot redeclare my_comments() (previously declared in C:\OSPanel\domains\Food-restoran.ru\wp-content\themes\foododessa\template-parts\content-otzyivyi.php:31)
+
+2017-12-06T23:20:39+00:00 CRITICAL Cannot redeclare my_comments() (previously declared in C:\OSPanel\domains\Food-restoran.ru\wp-content\themes\foododessa\template-parts\content-otzyivyi.php:31)
+
+2017-12-07T01:22:11+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2017-12-07T01:22:48+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2017-12-12T18:12:35+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-12T18:12:52+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-12T18:13:31+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-12T18:13:50+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-12T18:14:02+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-12T18:14:12+00:00 CRITICAL Call to undefined function get_image_path()
+
+2017-12-18T23:52:08+00:00 CRITICAL Call to undefined function wp_enqueve_script()
+
+2017-12-18T23:52:18+00:00 CRITICAL Call to undefined function wp_enqueve_script()
+
+2017-12-18T23:52:42+00:00 CRITICAL Call to undefined function wp_enqueve_script()
+
+2017-12-19T00:02:09+00:00 CRITICAL Call to undefined function get_template_directoty_uri()
+
